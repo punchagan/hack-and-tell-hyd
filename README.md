@@ -103,6 +103,29 @@ destructive to a supportive, productive, and fun learning environment.
 You are strongly recommended to read the rules, with the full and original
 explanation [here](https://www.hackerschool.com/manual#sub-sec-social-rules).
 
+### Violations
+
+- What if someone violates the Code of Conduct?
+
+  - Document as much as you can: time, place, people involved, and what
+    happened.
+
+  - Please report the violation immediately in person to the event organizer
+
+- What if someone violates a Social Rule?
+
+  The social rules are meant to be light-weight. While, violating a code of
+  conduct is a big deal, it usually isn't hard to avoid doing so. The social
+  rules, in contrast, are much harder to avoid breaking and people often make
+  mistakes. When this happens, you should point out to that person, and the
+  person apologizes and both of you move on. Accidentally breaking social rules
+  is common, expected, and readily forgiven.
+
+  Read
+  [this wonderful blog-post](https://www.hackerschool.com/blog/38-subtle-isms-at-hacker-school)
+  for a detailed explanation of the Social Rules, especially the last one.
+
+
 ### References
 
 The Code of Conduct is inspired by some great ones from
