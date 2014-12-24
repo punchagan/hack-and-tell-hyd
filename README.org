@@ -14,11 +14,12 @@ great hack, or idea.
 
 ** Meetup format
 
-5 minutes to show off your hack, and 5 minutes for the audience to applaud,
-cry, laugh, inquiry, snore, chew, stand, sit, dance, grow, interact, etc. But,
-of course, we hope that the audience provides lots of great feedback and asks
-interesting questions (probably while sitting, though dancing audience members
-are certainly free to participate as well)!
+- 5 minutes to show off your hack (a tool, library, etc., that you built)
+- 5 minutes for the audience to applaud, cry, laugh, inquiry, snore, chew,
+  stand, sit, dance, grow, interact, etc.
+
+We hope that the audience provides lots of great feedback and asks interesting
+questions!
 
 ** Presentation rules
 
