@@ -6,6 +6,8 @@ Khaja Minhajuddin signed up to talk, but *could not make it*!  He had signed up
 to talk about an app which allows you to create and host websites from Dropbox
 without using a single web page.  http://www.websrvr.in/
 
+We had only two people sign up before.  Pratap and Praneeth stepped in, impromptu.
+
 Pratap Vardhan showed us a couple of things he worked on. A gesture recognition
 system, and a visualization of the maps of the world. Check it out:
 https://gramener.com/flags/
