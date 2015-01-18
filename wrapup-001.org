@@ -1,0 +1,14 @@
+Dinesh demoed Skeyer. Skeyer is a gesture based keyboard I am developing for
+Ubuntu touch and Sailfish OS. Check it out:
+http://saidinesh5.wordpress.com/2014/12/15/skeyer-on-ubuntu-touch-and-sailfish-os/
+
+Khaja Minhajuddin signed up to talk, but *could not make it*!  He had signed up
+to talk about an app which allows you to create and host websites from Dropbox
+without using a single web page.  http://www.websrvr.in/
+
+Pratap Vardhan showed us a couple of things he worked on. A gesture recognition
+system, and a visualization of the maps of the world. Check it out:
+https://gramener.com/flags/
+
+Praneeth Bodduluri and other shared a bunch of other things that they hacked
+on.  It would be great to have more people speaking at future meetups.
