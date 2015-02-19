@@ -1,3 +1,13 @@
+#+STARTUP: indent
+
+* Round 2: Two's Company. Where's the Crowd?
+
+- Venue: Collab House
+- Date: 14th Feb, 2015.
+- Meet-up URL: http://www.meetup.com/hack-and-tell-hyderabad/events/219933940/
+
+** CANCELLED Presentations
+
 The meet-up was scheduled to follow after the Papers We Love meetup.  But,
 since there were no presenters who signed up before hand, and since all the
 participants already chatted with each other for quite a while, the meetup was
