@@ -1,0 +1,6 @@
+#+STARTUP: indent
+
+* Round 3: Three Cheers!
+- Venue: Collab House, Hyderabad
+- Date: Sunday, 15 March 2015, 03:30 PM
+- Meet-up URL: http://www.meetup.com/hack-and-tell-hyderabad/events/220623865/
